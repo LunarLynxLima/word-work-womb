@@ -1,0 +1,20 @@
+Top 5 bigrams before smoothing:
+('kg', 'for'): 1.0
+('slopes', 'thats'): 1.0
+('gods', 'plan'): 1.0
+('dust', 'to'): 1.0
+('uw', 'school'): 1.0
+
+Top 5 bigrams after Laplace smoothing:
+('i', 'feel'): 0.11043610327619874
+('feel', 'like'): 0.0350976507217662
+('i', 'am'): 0.03189412019960946
+('that', 'i'): 0.02650602409638554
+('and', 'i'): 0.023103748910200523
+
+Top 5 bigrams after Kneser-Ney smoothing:
+('don', 't'): 0.9703597914718767
+('href', 'http'): 0.9700024553936815
+('didn', 't'): 0.9583674360233536
+('sort', 'of'): 0.956541337274802
+('supposed', 'to'): 0.9184706989687346
